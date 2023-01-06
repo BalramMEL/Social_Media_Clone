@@ -1,10 +1,10 @@
 # Social_Media_Clone
 
-Material UI: https://mui.com/material-ui/getting-s...
+Material UI: https://mui.com/material-ui/getting-started/installation/
 
-Redux Toolkit: https://redux-toolkit.js.org/introduc...
+Redux Toolkit:https://redux-toolkit.js.org/introduction/getting-started
 
-React Router: https://reactrouter.com/en/v6.3.0/get...
+React Router: https://reactrouter.com/en/v6.3.0/getting-started/installation
 
 Redux Persist: https://github.com/rt2zz/redux-persist
 
