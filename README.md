@@ -16,8 +16,6 @@ Nodemon: https://github.com/remy/nodemon
 
 NPX: https://www.npmjs.com/package/npx
 
-VsCode: https://code.visualstudio.com/download
-
 Dotenv: https://github.com/motdotla/dotenv
 
 MongoDB: https://www.mongodb.com/
