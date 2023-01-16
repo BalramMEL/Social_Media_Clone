@@ -26,11 +26,9 @@ JsonWebToken: https://github.com/auth0/node-jsonweb...
 
 Multer: https://github.com/expressjs/multer
 
-GridFS-Storage: https://github.com/devconcept/multer-...
-
 Google Fonts: https://fonts.google.com/
 
 Formik: https://formik.org/docs/overview
 
-Yup: https://github.com/jquense/yup
+
 
